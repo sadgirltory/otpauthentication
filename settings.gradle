@@ -1,0 +1,2 @@
+rootProject.name='otpauthentication'
+include ':app'

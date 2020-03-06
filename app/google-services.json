@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338691827574",
+    "firebase_url": "https://otpauthentication-432fb.firebaseio.com",
+    "project_id": "otpauthentication-432fb",
+    "storage_bucket": "otpauthentication-432fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338691827574:android:9f700e2cbc2fe189a67c57",
+        "android_client_info": {
+          "package_name": "com.example.otpauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338691827574-eado583btatdh6v7ac469qr2hb5sh5ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB36FOYszTCmiNq3nWusrlELYnF4LoOFuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338691827574-eado583btatdh6v7ac469qr2hb5sh5ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
